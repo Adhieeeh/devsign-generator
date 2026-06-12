@@ -1,6 +1,10 @@
 ## DevSign — GitHub Badge Generator ##
+---------------------------------------
+
+## React Projects
 
 DevSign is a minimalist, interactive web utility built with React that helps developers quickly generate professional Markdown badges for their GitHub Profile READMEs. Instead of writing complex HTML or Markdown strings manually, simply plug in your usernames, pick a color, and copy the code!
+
 
 ##  Live Preview Image
 ![]()
