@@ -19,8 +19,8 @@ DevSign is a minimalist, interactive web utility built with React that helps dev
 ---
 
 ##  Tech Stack
-* **Frontend Library:** React (v18+)
-* **Build Tool:** Vite (for ultra-fast development)
+* **Frontend Library:** React
+* **Build Tool:** Vite
 * **Badges API:** Shields.io
 
 ---
