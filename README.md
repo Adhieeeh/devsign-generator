@@ -7,7 +7,7 @@ DevSign is a minimalist, interactive web utility built with React that helps dev
 
 
 ##  Live Preview Image
-![]()
+![](dev_sign.png)
 
 
 ##  Features
